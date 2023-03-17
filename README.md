@@ -53,7 +53,8 @@ print("If x=3 then y=",y_3)
 ```
 
 ## Output:
-![best fit line](sam.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/93427594/225863072-f4efbb0d-d501-4249-9e88-6c730ab2ca27.png)
+
 
 
 ## Result:
