@@ -20,8 +20,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by: Archana priya . J
+RegisterNumber:  212221230007
 */
 ```
 ```
@@ -53,8 +53,7 @@ print("If x=3 then y=",y_3)
 ```
 
 ## Output:
-![Screenshot (353)](https://user-images.githubusercontent.com/93427594/225863072-f4efbb0d-d501-4249-9e88-6c730ab2ca27.png)
-
+![Exp1](https://user-images.githubusercontent.com/93427594/225929155-0de5de8b-7b3f-408b-b0cc-20f0f33d4560.png)
 
 
 ## Result:
